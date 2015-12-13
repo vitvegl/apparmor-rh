@@ -1,5 +1,5 @@
 fc20/BUILD*
 fc20/*RPMS
 fc20/SOURCES/*.rpm
-fc20/SOURCES/*.tar.?z*
+fc20/SOURCES/*.tar.?z
 fc20/SPECS/.*.swp
