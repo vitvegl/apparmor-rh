@@ -2336,6 +2336,9 @@ fi
 #                 ||----w |
 #                 ||     ||
 %changelog
+* Sun Dec 13 2015 <vitvelg@gmail.com>
+- AppArmor support
+
 * Mon May 11 2015 Laura Abbott <labbott@fedoraproject.org> - 3.19.8-100
 - Linux v3.19.8
 
