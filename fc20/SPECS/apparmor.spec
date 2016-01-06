@@ -20,6 +20,12 @@ Source1:        apparmor_load.sh
 Source2:        apparmor_unload.sh
 Source3:        apparmor.service
 
+BuildRequires:  gcc
+BuildRequires:  gcc-c++
+BuildRequires:  libtool
+BuildRequires:  pam-devel
+BuildRequires:  python-devel
+BuildRequires:  perl-devel
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  libstdc++-static
